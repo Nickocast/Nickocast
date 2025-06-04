@@ -1,4 +1,4 @@
-# 👋 Hola, soy Nicolás A. Castillo (Nickocast)
+# 👋 Hola, soy Nicolás A. Castillo (Code-fy)
 
 **Desarrollador junior con mentalidad analítica y grandes objetivos.**  
 No solo escribo código: diseño conceptos.  
@@ -8,7 +8,7 @@ Para mí, la tecnología es una extensión de la autoconciencia y la intención 
 
 ---
 
-# 👋 Hi, I’m Nicolás A. Castillo (Nickocast)
+# 👋 Hi, I’m Nicolás A. Castillo (Code-fy)
 
 **Junior developer with an analytical mindset and big goals.**  
 I don't just write code — I design concepts.  
