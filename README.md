@@ -50,7 +50,7 @@ To me, technology is an extension of self-awareness and creative intent.
 
 - 💌 Email: nevo.contact@proton.me
 - 💼 LinkedIn: -  (en contrucción)
-- 💻 GitHub: [Nickocast](https://github.com/Nickocast)
+- 💻 GitHub: [Code-fy](https://github.com/Nickocast)
 
 ---
 
