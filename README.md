@@ -1,7 +1,7 @@
 # 👋 Hola, soy Nicolás A. Castillo (Code-fy)
 
 **Desarrollador junior con mentalidad analítica y grandes objetivos.**  
-No solo escribo código: *diseño conceptos*.  
+No solo escribo código: **diseño conceptos**.  
 Actualmente estoy desarrollando **A.U.R.O.R.A.**, un asistente de voz con emociones, contexto y actitud.  
 El proyecto explora cómo integrar personalidad, conciencia contextual y autodefinición en una inteligencia artificial funcional.  
 Para mí, la tecnología es una extensión de la autoconciencia y la intención creativa.
