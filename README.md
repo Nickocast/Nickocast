@@ -40,18 +40,16 @@ To me, technology is an extension of self-awareness and creative intent.
 ---
 
 ## 🧩 Filosofía / Philosophy
-La tecnología no debería ser solo útil:  
-**debe representar una idea, una intención, una forma de ser.**
-
 > 🧘‍♂️ Combino análisis, introspección y creación con propósito.  
 > La tecnología no debe ser solo útil, debe **comunicar y representar algo**.
+> 
 
 ---
 
 ## 📫 Contacto / Contact
 
-- 💌 Email: nevo.contact@proton.me
-- 💼 LinkedIn: -  (en contrucción)
+- 💌 Email: [nevo.contact@proton.me](mailto:nevo.contact@proton.me)
+- 💼 LinkedIn: -  *(en contrucción)*
 - 💻 GitHub: [Code-fy](https://github.com/Nickocast)
 
 ---
