@@ -32,24 +32,26 @@ To me, technology is an extension of self-awareness and creative intent.
 
 ## 🛠️ Tecnologías que uso / Technologies I work with
 
-- `Python`, `PySide6`, `Bash`, `Git`, `Markdown`
-- Trabajo con entornos híbridos, estructura modular y UI en dark mode
-- Estoy explorando el uso de `Transformers`, `CUDA` y `TensorRT` para ejecutar modelos LLM optimizados localmente con GPU
-- También he probado soluciones de voz como `Whisper`, `Faster-Whisper` y `CoquiTTS` para evaluar síntesis y reconocimiento de voz
+- `Python`, `PySide6`, `Bash`, `Git`
+- Trabajo con entornos híbridos, estructura modular
+- Estoy explorando el uso de `Transformers`, `CUDA` para ejecutar modelos LLM optimizados localmente con GPU
+- También he probado soluciones de voz como `Whisper`, `Faster-Whisper` y `CoquiTTS` para proveer respuesa de voz
 
 ---
 
 ## 🧩 Filosofía / Philosophy
 > 🧘‍♂️ Combino análisis, introspección y creación con propósito.  
 > La tecnología no debe ser solo útil, debe **comunicar y representar algo**.
-> 
+
+🎯 Este proyecto no nace desde la teoría, sino desde la necesidad real de construir algo coherente, escalable y con alma.  
+Asumo el rol de arquitecto, diseñador y desarrollador desde la experiencia personal, aplicando lógica, estructura y optimización como parte natural del proceso, no porque alguien lo impuso, sino porque **así debe ser para que funcione bien y tenga sentido**.
 
 ---
 
 ## 📫 Contacto / Contact
 
 - 💌 Email: [nevo.contact@proton.me](mailto:nevo.contact@proton.me)
-- 💼 LinkedIn: -  *(en contrucción)*
+- 💼 LinkedIn: [Nicolás A. Castillo](https://www.linkedin.com/in/nico-castillo/)
 - 💻 GitHub: [Code-fy](https://github.com/Nickocast)
 
 ---
