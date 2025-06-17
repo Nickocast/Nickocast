@@ -1,6 +1,6 @@
 # 👋 Hola, soy Nicolás A. Castillo (Code-fy)
 
-**Desarrollador junior con mentalidad analítica y grandes objetivos.**  
+**Desarrollador junior con mentalidad analítica, visión clara y objetivos ambiciosos.**  
 No solo escribo código: **diseño conceptos**.  
 Actualmente estoy desarrollando **A.U.R.O.R.A.**, un asistente de voz con emociones, contexto y actitud.  
 El proyecto explora cómo integrar personalidad, conciencia contextual y autodefinición en una inteligencia artificial funcional.  
@@ -10,7 +10,7 @@ Para mí, la tecnología es una extensión de la autoconciencia y la intención 
 
 # 👋 Hi, I’m Nicolás A. Castillo (Code-fy)
 
-**Junior developer with an analytical mindset and big goals.**  
+**Junior developer with analytical mindset, clear vision and ambitious goals.**  
 I don't just write code — I design concepts.  
 I'm currently developing **A.U.R.O.R.A.**, a voice assistant with emotions, context, and attitude.  
 The project explores how to integrate personality, contextual awareness, and self-definition into a functional AI.  
@@ -32,10 +32,11 @@ To me, technology is an extension of self-awareness and creative intent.
 
 ## 🛠️ Tecnologías que uso / Technologies I work with
 
-- `Python`, `PySide6`, `Bash`, `Git`
-- Trabajo con entornos híbridos, estructura modular
-- Estoy explorando el uso de `Transformers`, `CUDA` para ejecutar modelos LLM optimizados localmente con GPU
-- También he probado soluciones de voz como `Whisper`, `Faster-Whisper` y `CoquiTTS` para proveer respuesa de voz
+- Lenguajes y frameworks: `Python`, `PySide6`, `Bash`  
+- Control de versiones: `Git`  
+- Arquitectura: entornos híbridos, estructura modular  
+- Exploración de IA: `Transformers`, `CUDA` para modelos LLM optimizados localmente  
+- Voz: `Whisper`, `Faster-Whisper`, `CoquiTTS`  
 
 ---
 
@@ -56,6 +57,5 @@ Asumo el rol de arquitecto, diseñador y desarrollador desde la experiencia pers
 
 ---
 
-¡Gracias por pasar!  
-Thanks for visiting!  
-🌑 *Theme: Dark mode only. No exceptions.*
+¡Gracias por pasar por este espacio donde la tecnología se convierte en una extensión de la conciencia!  
+Thanks for visiting this space where technology becomes an extension of awareness!
