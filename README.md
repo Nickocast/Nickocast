@@ -8,17 +8,7 @@ Para mí, la tecnología es una extensión de la autoconciencia y la intención 
 
 ---
 
-# 👋 Hi, I’m Nicolás A. Castillo (Code-fy)
-
-**Junior developer with analytical mindset, clear vision and ambitious goals.**  
-I don't just write code — I design concepts.  
-I'm currently developing **A.U.R.O.R.A.**, a voice assistant with emotions, context, and attitude.  
-The project explores how to integrate personality, contextual awareness, and self-definition into a functional AI.  
-To me, technology is an extension of self-awareness and creative intent.
-
----
-
-## 🚀 Proyecto principal / Main Project: **A.U.R.O.R.A.**
+## 🚀 Proyecto principal: **A.U.R.O.R.A.**
 
 🧠 Una inteligencia artificial modular en desarrollo, diseñada para:
 - 🗣️ Reconocimiento y síntesis de voz
@@ -30,7 +20,7 @@ To me, technology is an extension of self-awareness and creative intent.
 
 ---
 
-## 🛠️ Tecnologías que uso / Technologies I work with
+## 🛠️ Tecnologías que uso:
 
 - Lenguajes y frameworks: `Python`, `PySide6`, `Bash`  
 - Control de versiones: `Git`  
@@ -40,7 +30,7 @@ To me, technology is an extension of self-awareness and creative intent.
 
 ---
 
-## 🧩 Filosofía / Philosophy
+## 🧩 Mi filosofía:
 > 🧘‍♂️ Combino análisis, introspección y creación con propósito.  
 > La tecnología no debe ser solo útil, debe **comunicar y representar algo**.
 
@@ -49,7 +39,7 @@ Asumo el rol de arquitecto, diseñador y desarrollador desde la experiencia pers
 
 ---
 
-## 📫 Contacto / Contact
+## 📫 Contacto
 
 - 💌 Email: [nevo.contact@proton.me](mailto:nevo.contact@proton.me)
 - 💼 LinkedIn: [Nicolás A. Castillo](https://www.linkedin.com/in/nico-castillo/)
@@ -58,4 +48,53 @@ Asumo el rol de arquitecto, diseñador y desarrollador desde la experiencia pers
 ---
 
 ¡Gracias por pasar por este espacio donde la tecnología se convierte en una extensión de la conciencia!  
-Thanks for visiting this space where technology becomes an extension of awareness!
+
+<details>
+<summary>🇺🇸 English version</summary>
+
+# 👋 Hi, I’m Nicolás A. Castillo (Code-fy)  
+Junior developer with analytical mindset, clear vision and ambitious goals.  
+I don't just write code — I design concepts.  
+I'm currently developing A.U.R.O.R.A., a voice assistant with emotions, context, and attitude.  
+The project explores how to integrate personality, contextual awareness, and self-definition into a functional AI.  
+To me, technology is an extension of self-awareness and creative intent.
+
+---
+
+## 🚀 Main Project: A.U.R.O.R.A.  
+🧠 A modular artificial intelligence in development, designed for:
+
+🗣️ Voice recognition and synthesis  
+💬 Emotional and contextual understanding  
+🎭 Defined attitude and personality  
+🔧 Real interaction with the user's environment  
+> This project represents a concrete vision: integrating emotions, context, and self-definition into a functional AI.  
+> It's not just an experiment — it's an intentional construction.
+
+---
+
+## 🛠️ Technologies I work with  
+- Languages & frameworks: `Python`, `PySide6`, `Bash`  
+- Version control: `Git`  
+- Architecture: hybrid environments, modular structure  
+- AI exploration: `Transformers`, `CUDA` for locally optimized LLMs  
+- Voice: `Whisper`, `Faster-Whisper`, `CoquiTTS`
+
+---
+
+## 🧩 Philosophy  
+> 🧘‍♂️ I combine analysis, introspection, and purposeful creation.  
+> Technology should not only be useful — it should communicate and represent something.
+
+🎯 This project doesn’t come from theory, but from the real need to build something coherent, scalable, and with soul.  
+I assume the role of architect, designer, and developer based on personal experience, applying logic, structure, and optimization as a natural part of the process — not because someone imposed it, but because that’s what makes it work and make sense.
+
+---
+
+📫 Contact  
+- 💌 Email: [nevo.contact@proton.me](mailto:nevo.contact@proton.me)
+- 💼 LinkedIn: [Nicolás A. Castillo](https://www.linkedin.com/in/nico-castillo/)
+- 💻 GitHub: [Code-fy](https://github.com/Nickocast)
+Thanks for visiting this space where technology becomes an extension of awareness.
+
+</details>
