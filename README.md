@@ -23,7 +23,8 @@ Para mí, la tecnología es una extensión de la autoconciencia y la intención 
 ## 🛠️ Tecnologías que experimento y uso:
 
 - Lenguajes y frameworks: `Python`, `Bash`  
-- Control de versiones: `Git`  
+- Control de versiones: `Git`
+- Herramientas de gestión de ideas y trabajo `Jira`, `Miro`
 - Arquitectura: entornos híbridos, estructura modular  
 - Exploración de IA: `Transformers`, `CUDA` para modelos LLM optimizados localmente  
 - Voz: `Whisper`, `Faster-Whisper`, `CoquiTTS`  
